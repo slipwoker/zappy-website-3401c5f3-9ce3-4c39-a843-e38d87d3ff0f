@@ -1,0 +1,78 @@
+# VELARO — Generative Engine Optimization Map
+
+> VELARO is a clothing brand with a strong visual identity, focused on showcasing apparel including shirts, pants, and covers. The brand aims for a beautiful and original aesthetic, suggesting a desire for a distinctive, creative, and visually striking presence that sets it apart from conventional fashion brands.
+
+---
+
+## Pages
+
+### Home
+https://velaro-3401c5f3.zappy5.app
+Step into VELARO&#39;s fashion boutique online and redefine your style with original shirts, pants, and covers. Explore striking designs that command attention. Shop the look now.
+
+### Collections
+https://velaro-3401c5f3.zappy5.app/collections
+Unveil our latest collections, from the iconic rock black shirt to bold pants and covers. Grab the best clothing Black Friday deals before they vanish. Curate your wardrobe today.
+
+### About
+https://velaro-3401c5f3.zappy5.app/about
+VELARO fuses a strong visual identity with creative passion. Learn how we craft apparel that breaks the mold, from standout shirts to signature covers. Join our vision.
+
+### Contact
+https://velaro-3401c5f3.zappy5.app/contact
+Have a question or need style advice? Reach out to VELARO and experience a fashion boutique online that puts you first. Let&#39;s start a conversation about your next iconic look.
+
+## Legal & Policy
+
+### Privacy Policy
+https://velaro-3401c5f3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://velaro-3401c5f3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://velaro-3401c5f3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://velaro-3401c5f3.zappy5.app/contact
+- Endpoint: https://velaro-3401c5f3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VELARO
+VELARO is a clothing brand with a strong visual identity, focused on showcasing apparel including shirts, pants, and covers. The brand aims for a beautiful and original aesthetic, suggesting a desire for a distinctive, creative, and visually striking presence that sets it apart from conventional fashion brands.
+
+## Target Audience
+- Urban Fashionistas
+- Eco-Conscious Shoppers
+- Casual Professionals
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://velaro-3401c5f3.zappy5.app/sitemap.xml
+- Robots: https://velaro-3401c5f3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://velaro-3401c5f3.zappy5.app/llms-full.txt
